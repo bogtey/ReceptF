@@ -1,0 +1,12 @@
+.profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Занять всю высоту экрана */
+    padding: 20px;
+  }
+  
+  .card {
+    width: 100%;
+    max-width: 400px; /* Ограничение ширины карточки */
+  }

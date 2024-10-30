@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.content {
+  padding-top: 70px; /* Adjust the padding to avoid content being hidden behind the navbar */
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

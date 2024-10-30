@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Czizh';
+  src: url('./fonts/ofont.ru_Czizh.ttf') format('truetype');
+}
+
+.navbar-brand {
+  font-family: 'Czizh', sans-serif;
+  font-size: 24px;
+}
